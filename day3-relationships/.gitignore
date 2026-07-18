@@ -1,0 +1,15 @@
+# Python virtual environment and cache files
+venv/
+__pycache__/
+*.pyc
+
+# Database files if using sqlite locally
+*.db
+*.sqlite3
+
+# Environment variables - NEVER commit secrets
+.env
+
+# IDE settings
+.vscode/
+.idea/
