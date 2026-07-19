@@ -1,0 +1,11 @@
+# Ignore Python cache folders
+# These are auto-generated files that slow down git and aren't needed
+__pycache__/
+
+# Ignore virtual environment folder
+# This contains all your installed packages. Everyone should make their own .venv
+.venv/
+
+# Ignore compiled Python files
+# .pyc files are bytecode files created when you run Python
+*.pyc
